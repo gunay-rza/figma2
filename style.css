@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(230, 229, 229);
+}
+
+.ilk {
+    padding-left: 40px;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    padding-top: 30px;
+}
+
+p {
+    width: 400px;
+    height: 300px;
+    display: flex;
+    text-align: justify;
+    margin-top: 20px;
+    margin: auto;
+    font-size: 20px;
+
+
+}
+
+img {
+    width: 450px;
+    height: 400px;
+    margin-top: 40px;
+}
+
+.esas {
+    display: block;
+    padding: 30px;
+    margin: auto;
+}
+
+.orta {
+    width: 1000px;
+    height: 600px;
+    display: flex;
+    margin: auto;
+
+}
+
+.hp {
+    width: 50%;
+    height: 550px;
+    background-color: white;
+    display: block;
+    justify-content: space-evenly;
+    margin: 3px;
+    padding-left: 20px;
+    text-align: justify;
+    background-color: rgb(244, 247, 247);
+    padding: 50px;
+    box-shadow: 2px 2px gainsboro;
+    border: 1px rgb(240, 237, 237);
+
+}
+
+.hp p {
+    width: 400px;
+    display: flex;
+    font-size: 15px;
+    margin-left: 0;
+    margin-top: 10px;
+    font-family: 'Times New Roman';
+
+
+}
+
+.orta img {
+    margin-top: 3px;
+    width: 50%;
+    height: 550px;
+
+}
+
+.hp h2 {
+    margin-top: 60px;
+    color: #974D24;
+    margin-left: 38px;
+    font-size: 30px;
+}
+
+.hp2 {
+    width: 50%;
+    height: 550px;
+    background-color: white;
+    display: block;
+    justify-content: space-evenly;
+    margin: 3px;
+    padding-left: 20px;
+    text-align: justify;
+    background-color: rgb(244, 247, 247);
+    padding: 50px;
+    box-shadow: 2px 2px gainsboro;
+    border: 1px rgb(240, 237, 237);
+
+}
+
+.son {
+    width: 1000px;
+    height: 600px;
+    display: flex;
+    margin: auto;
+
+}
+
+.son img {
+    margin-top: 3px;
+    width: 50%;
+    height: 550px;
+}
+
+.son p {
+    width: 400px;
+    display: flex;
+    font-size: 15px;
+    margin-left: 0;
+    margin-top: 10px;
+    font-family: 'Times New Roman';
+}
+
+.hp2 h2 {
+    margin-top: 60px;
+    color: #974D24;
+    margin-left: 38px;
+    font-size: 30px;
+}
+
+h1 {
+
+    padding-left: 70px;
+    margin-left: 250px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    color: rgb(167, 164, 164);
+
+}
